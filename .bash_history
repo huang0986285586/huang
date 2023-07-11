@@ -85,3 +85,39 @@ ls
 crontab -e
 ls
 crontab -e
+vim result.txt
+ls
+sudo apt-get install git
+ssh-keygen -t rsa -C
+git clone git@github.com:huang0986285586/huang.git
+ls
+git clone git@github.com:huang0986285586/huang.git
+ssh -T git@github.com
+corntab -e
+crontab -e
+git clone git@github.com:huang0986285586/huang.git
+ssh -T git@github.com
+crontab -e
+md c program
+md program
+cd
+md
+mkdir c program
+mkdir c_program
+git init 
+git add .
+git commit -m "message"
+git config --global user.name "huang0986285586"
+git branch -M main
+git commit -m "message"
+pwd
+ls
+git commit -m "huang"
+git config --global user.email "abc8832372@gmail.com"
+git config --global user.name "huang0986285586"
+git commit -m "huang"
+git branch -M main
+git add remote origin https://github.com/huang0986285586/huang.git
+git remote add origin https://github.com/huang0986285586/huang.git
+git push -u origin main 
+ls
