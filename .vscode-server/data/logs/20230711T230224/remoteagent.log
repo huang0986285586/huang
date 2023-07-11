@@ -1,0 +1,20 @@
+2023-07-11 23:02:24.991 [info] 
+
+
+
+
+2023-07-11 23:02:25.002 [info] Extension host agent started.
+2023-07-11 23:02:25.042 [info] [127.0.0.1][abce40e9][ManagementConnection] New connection established.
+2023-07-11 23:02:25.070 [info] [127.0.0.1][1c750ca3][ExtensionHostConnection] New connection established.
+2023-07-11 23:02:25.105 [info] [127.0.0.1][1c750ca3][ExtensionHostConnection] <781054> Launched Extension Host Process.
+2023-07-11 23:02:33.392 [info] [127.0.0.1][abce40e9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-11 23:02:33.397 [info] [127.0.0.1][1c750ca3][ExtensionHostConnection] <781054> Extension Host Process exited with code: 0, signal: null.
+2023-07-11 23:02:33.397 [info] Cancelling previous shutdown timeout
+2023-07-11 23:02:33.397 [info] Last EH closed, waiting before shutting down
+2023-07-11 23:02:43.905 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-07-11 23:02:43.906 [info] Cancelling previous shutdown timeout
+2023-07-11 23:02:44.105 [info] [127.0.0.1][3e80d208][ManagementConnection] New connection established.
+2023-07-11 23:02:44.171 [info] [127.0.0.1][01cb353e][ExtensionHostConnection] New connection established.
+2023-07-11 23:02:44.181 [info] [127.0.0.1][01cb353e][ExtensionHostConnection] <781196> Launched Extension Host Process.
+2023-07-11 23:07:43.906 [info] New EH opened, aborting shutdown
+2023-07-11 23:18:31.149 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
